@@ -1,0 +1,4 @@
+thise is a text file
+
+
+scp -i Downloads\demo-gv-key.pem OneDrive\demo.txt ec2-user@3.128.168.143:/home/ec2-user/vish
